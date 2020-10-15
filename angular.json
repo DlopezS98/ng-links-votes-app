@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ng-links-votes"
+    }
+  },
+  "defaultProject": "ng-links-votes",
+  "cli": {
+    "analytics": false
+  }
 }
